@@ -11,3 +11,9 @@ C:\Users\Rafael Siqueira\source\repos\Projeto_OO\Projeto_OO\obj\Debug\netcoreapp
 C:\Users\Rafael Siqueira\source\repos\Projeto_OO\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.dll
 C:\Users\Rafael Siqueira\source\repos\Projeto_OO\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.pdb
 C:\Users\Rafael Siqueira\source\repos\Projeto_OO\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.genruntimeconfig.cache
+C:\Users\Rafael Siqueira\source\repos\MVVM_CSharp\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.csproj.AssemblyReference.cache
+C:\Users\Rafael Siqueira\source\repos\MVVM_CSharp\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.AssemblyInfoInputs.cache
+C:\Users\Rafael Siqueira\source\repos\MVVM_CSharp\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.AssemblyInfo.cs
+C:\Users\Rafael Siqueira\source\repos\MVVM_CSharp\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Siqueira\source\repos\MVVM_CSharp\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.dll
+C:\Users\Rafael Siqueira\source\repos\MVVM_CSharp\Projeto_OO\obj\Debug\netcoreapp3.1\Projeto_OO.pdb

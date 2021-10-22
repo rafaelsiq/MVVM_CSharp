@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael Siqueira\\source\\repos\\Projeto_OO\\Projeto_OO\\Projeto_OO.csproj": {}
+    "C:\\Users\\Rafael Siqueira\\source\\repos\\MVVM_CSharp\\Projeto_OO\\Projeto_OO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael Siqueira\\source\\repos\\Projeto_OO\\Projeto_OO\\Projeto_OO.csproj": {
+    "C:\\Users\\Rafael Siqueira\\source\\repos\\MVVM_CSharp\\Projeto_OO\\Projeto_OO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Siqueira\\source\\repos\\Projeto_OO\\Projeto_OO\\Projeto_OO.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Siqueira\\source\\repos\\MVVM_CSharp\\Projeto_OO\\Projeto_OO.csproj",
         "projectName": "Projeto_OO",
-        "projectPath": "C:\\Users\\Rafael Siqueira\\source\\repos\\Projeto_OO\\Projeto_OO\\Projeto_OO.csproj",
+        "projectPath": "C:\\Users\\Rafael Siqueira\\source\\repos\\MVVM_CSharp\\Projeto_OO\\Projeto_OO.csproj",
         "packagesPath": "C:\\Users\\Rafael Siqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Siqueira\\source\\repos\\Projeto_OO\\Projeto_OO\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Siqueira\\source\\repos\\MVVM_CSharp\\Projeto_OO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
