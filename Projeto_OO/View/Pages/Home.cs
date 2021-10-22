@@ -22,6 +22,8 @@ namespace Projeto_OO.View.Pages
             cliente.NomeDoCliente();
             Console.WriteLine(cliente.TelefoneDoCliente());
 
+Criei uma linha para testar
+
         }
 
     }
