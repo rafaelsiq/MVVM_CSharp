@@ -6,5 +6,8 @@ namespace Projeto_OO
 {
     class Moto
     {
+        public Moto() {
+            Console.WriteLine("BiBi!");
+        }
     }
 }
