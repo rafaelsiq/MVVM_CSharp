@@ -7,7 +7,7 @@ namespace Projeto_OO
     class Moto
     {
 	public Moto(){
-	Console.WriteLine("FonFon!");
+	Console.WriteLine("Bibi FonFon!");
 	}
     }
 }
